@@ -1,6 +1,6 @@
 ## Kubernetes Kickstarter
 
-## Architecture Guides
+## Architecture Guidess
 
 1. [Kubernetes Architecture Guide](./kubernetes_architecture.md)
 
